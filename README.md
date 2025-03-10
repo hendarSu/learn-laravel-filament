@@ -1,6 +1,6 @@
 # Pengembangan Aplikasi Web dengan Laravel Filament
 
-![Laravel Filament](https://via.placeholder.com/800x200/5965e0/ffffff?text=Laravel+Filament+Ebook)
+![Laravel Filament](https://placeholder.com/800x200/5965e0/ffffff?text=Laravel+Filament+Ebook)
 
 > Panduan lengkap dari dasar-dasar web development hingga membuat aplikasi sistem booking kegiatan dengan Laravel Filament.
 
@@ -12,70 +12,70 @@ Ebook ini dirancang untuk membantu Anda memahami konsep dasar pengembangan web, 
 
 ### Bagian 1: Dasar-Dasar Web Development
 - **Pengenalan Web Development**
-  - Sejarah dan evolusi web
-  - Arsitektur client-server
-  - Frontend vs backend development
+  - [Sejarah dan evolusi web](./section/part-1.md#sejarah-dan-evolusi-web)
+  - [Arsitektur client-server](./section/part-1.md#arsitektur-client-server)
+  - [Frontend vs backend development](./section/part-1.md#frontend-vs-backend-development)
 - **HTML: Struktur Halaman Web**
-  - Sintaks HTML dan elemen dasar
-  - Semantic HTML
-  - Form dan input
+  - [Sintaks HTML dan elemen dasar](./section/part-1.md#sintaks-html-dan-elemen-dasar)
+  - [Semantic HTML](./section/part-1.md#semantic-html)
+  - [Form dan input](./section/part-1.md#form-dan-input)
 - **CSS: Styling Halaman Web**
-  - Selectors dan properties
-  - Box model dan layout
-  - Responsive web design
+  - [Selectors dan properties](./section/part-1.md#selectors-dan-properties)
+  - [Box model dan layout](./section/part-1.md#box-model-dan-layout)
+  - [Responsive web design](./section/part-1.md#responsive-web-design)
 - **JavaScript: Interaktivitas pada Web**
-  - Sintaks dasar JavaScript
-  - DOM manipulation
-  - Event handling
+  - [Sintaks dasar JavaScript](./section/part-1.md#sintaks-dasar-javascript)
+  - [DOM manipulation](./section/part-1.md#dom-manipulation)
+  - [Event handling](./section/part-1.md#event-handling)
 
 ### Bagian 2: Pengenalan PHP
 - **Sejarah dan Pentingnya PHP**
-  - Evolusi PHP
-  - Peran PHP dalam pengembangan web
+  - [Evolusi PHP](./section/part-2.md#evolusi-php)
+  - [Peran PHP dalam pengembangan web](./section/part-2.md#peran-php-dalam-pengembangan-web)
 - **Sintaks Dasar PHP**
-  - Struktur program PHP
-  - Output dan komentar
+  - [Struktur program PHP](./section/part-2.md#struktur-program-php)
+  - [Output dan komentar](./section/part-2.md#output-dan-komentar)
 - **Variabel dan Tipe Data**
-  - Jenis tipe data
-  - Type casting dan konversi
+  - [Jenis tipe data](./section/part-2.md#jenis-tipe-data)
+  - [Type casting dan konversi](./section/part-2.md#type-casting-dan-konversi)
 - **Array dan Fungsi**
-  - Array numerik dan asosiatif
-  - Built-in functions
-  - User-defined functions
+  - [Array numerik dan asosiatif](./section/part-2.md#array-numerik-dan-asosiatif)
+  - [Built-in functions](./section/part-2.md#built-in-functions)
+  - [User-defined functions](./section/part-2.md#user-defined-functions)
 - **Object-Oriented Programming (OOP) dalam PHP**
-  - Class dan objek
-  - Properties dan methods
-  - Inheritance dan polymorphism
+  - [Class dan objek](./section/part-2.md#class-dan-objek)
+  - [Properties dan methods](./section/part-2.md#properties-dan-methods)
+  - [Inheritance dan polymorphism](./section/part-2.md#inheritance-dan-polymorphism)
 - **Database dan PHP**
-  - Koneksi ke database
-  - CRUD operations
-  - Prepared statements
+  - [Koneksi ke database](./section/part-2.md#koneksi-ke-database)
+  - [CRUD operations](./section/part-2.md#crud-operations)
+  - [Prepared statements](./section/part-2.md#prepared-statements)
 
 ### Bagian 3: Laravel Framework
 - **Pengenalan Laravel**
-  - Filosofi dan keunggulan Laravel
-  - Ekosistem Laravel
+  - [Filosofi dan keunggulan Laravel](./section/part-3.md#filosofi-dan-keunggulan-laravel)
+  - [Ekosistem Laravel](./section/part-3.md#ekosistem-laravel)
 - **Instalasi dan Setup**
-  - Kebutuhan sistem
-  - Composer dan artisan
+  - [Kebutuhan sistem](./section/part-3.md#kebutuhan-sistem)
+  - [Composer dan artisan](./section/part-3.md#composer-dan-artisan)
 - **Arsitektur MVC**
-  - Struktur aplikasi Laravel
-  - Flow request-response
+  - [Struktur aplikasi Laravel](./section/part-3.md#struktur-aplikasi-laravel)
+  - [Flow request-response](./section/part-3.md#flow-request-response)
 - **Routing dan Controller**
-  - Route types dan parameters
-  - Controller dan resource controllers
+  - [Route types dan parameters](./section/part-3.md#route-types-dan-parameters)
+  - [Controller dan resource controllers](./section/part-3.md#controller-dan-resource-controllers)
 - **Blade Templating**
-  - Syntax dan directives
-  - Layout dan components
+  - [Syntax dan directives](./section/part-3.md#syntax-dan-directives)
+  - [Layout dan components](./section/part-3.md#layout-dan-components)
 - **Eloquent ORM**
-  - Model dan relationship
-  - Query builder
+  - [Model dan relationship](./section/part-3.md#model-dan-relationship)
+  - [Query builder](./section/part-3.md#query-builder)
 - **Form Processing dan Validasi**
-  - Validasi input
-  - Form request
+  - [Validasi input](./section/part-3.md#validasi-input)
+  - [Form request](./section/part-3.md#form-request)
 - **Authentication dan Authorization**
-  - User authentication
-  - Policies dan gates
+  - [User authentication](./section/part-3.md#user-authentication)
+  - [Policies dan gates](./section/part-3.md#policies-dan-gates)
 
 ### Bagian 4: Laravel Filament
 - **Pengenalan Filament**
